@@ -1,0 +1,25 @@
+body {
+	background-color: lightpink ;
+	width: 1325px	
+}
+h1 {
+	color: blue;
+	font-family:papyrus;
+	background-color: antiquewhite  ;
+}
+table {
+	background-color: salmon;
+	font-family:verdana;
+    border-style: dotted;
+    border-radius: 17px;
+    outline-color: #4CAF50;
+}
+h3 {
+	font-family: sans-serif;
+    margin: 70px;
+    border: 17px solid #4CAF50;
+    outline-style: solid;
+    outline-color: salmon;
+    outlile border-radius: 10px;
+}
+
